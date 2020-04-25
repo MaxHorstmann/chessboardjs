@@ -1,0 +1,1 @@
+https://github.com/oakmac/chessboardjs/compare/master...MaxHorstmann:master?diff=split&w=1
